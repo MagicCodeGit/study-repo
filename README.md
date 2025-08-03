@@ -17,3 +17,9 @@ To build the project from the command line, navigate to the root directory and r
 ```bash
 ./gradlew build
 ```
+
+### Building the Project
+To build the project from the command line, navigate to the root directory and run:
+```bash
+./gradlew build
+```
