@@ -17,3 +17,5 @@ Thank you for your interest in contributing! We're excited to see your ideas. To
 5.  **Open a Pull Request:** When your work is ready, push your branch to GitHub and open a Pull Request to the `main` branch. Provide a clear title and a good description of what you've done.
 
 We appreciate your contributions and will review your Pull Request as soon as possible. Let's make this project better, together!
+
+We appreciate your contributions and will review your Pull Request as soon as possible. Let's make this project better, together!
