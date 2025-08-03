@@ -23,3 +23,11 @@ To build the project from the command line, navigate to the root directory and r
 ```bash
 ./gradlew build
 ```
+
+## My Awesome Project
+
+- Initialize the project repository
+- Add the main feature
+- Create unit tests
+- Update the documentation
+- Prepare for the first release
